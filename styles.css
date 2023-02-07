@@ -1,0 +1,60 @@
+body{
+    position: relative;
+  }
+  
+  .myDiv{
+    border-width:2px;
+  border-style:solid;
+  border-color:black;
+  }
+  
+  .dot {
+      height: 130px;
+      width: 130px;
+      /* background-color: aqua; */
+      border-radius: 50%;
+      display: inline-block;
+    }
+  
+    span{
+      margin-top: 80px;
+      margin-bottom: 80px; 
+      margin-left: 40px;
+  
+    }
+  
+    h1{
+      text-align: center;
+    }
+  
+    .x1{
+      background-color: yellow;
+      border-width:2px;
+      border-style:solid;
+      border-color:black;
+    }
+  
+   
+    input.right {
+      float: right;
+     margin-right: 100px;
+    }
+   
+    .img{
+      height: 60px;
+      width: 60px;
+     padding-bottom: 150px;
+    } 
+    
+    img.right {
+      position: absolute;
+      right: 150px;
+      margin-bottom: 20px;
+      bottom: 130px;
+    } 
+  
+    .btn{
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+  
